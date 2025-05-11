@@ -69,10 +69,5 @@ firmware/
 
 ---
 
-🤝 Contributing
-We welcome contributions!
-
----
-
 📜 License
 MIT License — use freely, credit appreciated.
