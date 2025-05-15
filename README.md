@@ -33,7 +33,7 @@ Full BOM available [here](hardware/bill-of-materials.md)
 ## 📲 Smartphone App
 
 App is built with MIT App Inventor  
-👉 Source: [`mobile-app/mit-app-inventor/`](mobile-app/mit-app-inventor/)
+👉 Source: [`Coming Soon`)
 
 Features:
 - On-screen joystick for robot movement
