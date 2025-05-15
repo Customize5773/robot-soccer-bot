@@ -43,7 +43,7 @@ Features:
 
 ## 🚀 Quick Start
 
-1. Wire your components using [this diagram](docs/wiring-diagram.png)
+1. Wire your components
 2. Upload `firmware/src/robot_soccer.ino` to Arduino
 3. Pair phone to HC-05 or ESP32 Bluetooth
 4. Open the MIT App, connect, and play!
@@ -59,13 +59,6 @@ firmware/
 ├── lib/                    # External/custom libraries
 └── config.h                # Pins and tunable constants
 ```
-
----
-
-📚 Documentation
-- [Wiring Diagram]()
-- [System Architecture]()
-- [Control Flow]()
 
 ---
 
